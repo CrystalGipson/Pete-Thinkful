@@ -54,3 +54,13 @@ a :hover f77f00 {
 nav {
   text-align: center;
 }
+ul { display: table; 
+    margin: 0 auto;
+    text-align: left;
+  
+}
+ol {
+  display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
