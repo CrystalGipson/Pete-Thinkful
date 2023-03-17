@@ -22,7 +22,10 @@ article div {
   text-align: center;
   width: 100%;
 }
+article div p { 
 
+  text-align: left;
+}
 p {
   line-height: 1.5; 
 }
