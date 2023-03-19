@@ -53,5 +53,6 @@ nav {
   text-align: center;
 }
 article div P {
-  text-align: center: 100;
+  text-align: center;
+  margin: auto;
 }
